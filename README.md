@@ -3,8 +3,10 @@
 
 <div>
   <a href="https://github.com/LeticiaAvelar">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeticiaAvelar&theme=radical"/>
-
+  <img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaAvelar&layout=compact&langs_count=6&hide=Jupyter%20Notebook&theme=radical"
+/>
 
 </div>
    
